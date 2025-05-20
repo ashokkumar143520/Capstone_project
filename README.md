@@ -43,3 +43,4 @@ This project explores historical Olympic Games data using SQL for data preparati
 2. Use SQL queries from `/sql/analysis_queries.sql` to explore the data.
 3. Open `capstone_project.pbix` in Power BI Desktop to interact with the dashboard.
 
+
